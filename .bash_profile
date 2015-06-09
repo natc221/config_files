@@ -4,18 +4,28 @@ COLOR_BOLD="[\e[1m]"
 COLOR_DEFAULT="[\e[0m]"
 export CLICOLOR=1
 
-#added commands
 alias ..="cd .."
+alias cd..="cd .."
 alias ....="cd ../.."
+alias ls='ls -GFh'
 alias subl="sublime"
 alias sbp="source ~/.bash_profile"
 alias vbp="vim ~/.bash_profile"
-trash () { command mv "$@" ~/.Trash ; }     #  trash: Moves a file to the MacOS trash
-alias f='open -a Finder ./'                 #  f: Opens current directory in MacOS Finder
-ql () { qlmanage -p "$*" >& /dev/null; }    #  ql: Opens any file in MacOS Quicklook Preview
-mkd () { mkdir -p "$1" && cd "$1"; }        #  mcd: Makes new Dir and jumps inside
 
-#git shortcuts
-alias gch="git checkout"                    # gch: git checkout
-alias gp="git pull"                         # gp: git pull
-alias gb="git branch"                       # gb: git branch
+# moves to OS X trash
+trash () { command mv "$@" ~/.Trash ; }
+#open in OS Xfinder
+alias f='open -a Finder ./'
+#opens file in quicklook preview
+ql () { qlmanage -p "$*" >& /dev/null; }
+mkd () { mkdir -p "$1" && cd "$1"; }
+alias crontab="env VIM_CRONTAB=true crontab"
+
+# git shortcuts
+alias gch="git checkout"
+alias gp="git pull"
+alias gb="git branch"
+alias gcom= "git commit -am"
+
+export EDITOR=vim
+export VISUAL=vim
