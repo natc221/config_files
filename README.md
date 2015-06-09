@@ -6,7 +6,8 @@ Apps
 
 Sublime packages
 ---
-- package control
-- alignment
-- spacegray theme
+- Package control
+- Alignment
+- Spacegray theme
     - https://github.com/kkga/spacegray/
+- BracketHighlighter
