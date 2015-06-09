@@ -22,6 +22,7 @@ mkd () { mkdir -p "$1" && cd "$1"; }
 alias crontab="env VIM_CRONTAB=true crontab"
 
 # git shortcuts
+alias gs="git status"
 alias gch="git checkout"
 alias gp="git pull"
 alias gb="git branch"
