@@ -8,6 +8,10 @@ Sublime packages
 ---
 - Package control
 - Alignment
+- BracketHighlighter
 - Spacegray theme
     - https://github.com/kkga/spacegray/
-- BracketHighlighter
+- Markdown Preview
+- SideBarEnhancements
+- SublimeLinter
+- SublimeLinter-jshint
