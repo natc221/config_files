@@ -1,8 +1,11 @@
 Apps
 ---
-- Sublime Text 3
-- SourceTree
-- HarooPad
+- [Alfred](http://www.alfredapp.com/)
+- [f.lux](https://justgetflux.com/)
+- [HarooPad](http://pad.haroopress.com/)
+- [SourceTree](https://www.sourcetreeapp.com/)
+- [Spectacle](http://spectacleapp.com/)
+- [Sublime Text 3](https://www.sublimetext.com/)
 
 Sublime packages
 ---
@@ -12,8 +15,7 @@ Sublime packages
 - JSONLint
 - Markdown Preview
 - Pretty JSON
-- Spacegray theme
-    - https://github.com/kkga/spacegray/
+- [Spacegray theme](https://github.com/kkga/spacegray/)
 - SideBarEnhancements
 - SublimeCodeIntel
 - SublimeLinter
