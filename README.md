@@ -3,6 +3,7 @@ Apps
 - [Alfred](http://www.alfredapp.com/)
 - [f.lux](https://justgetflux.com/)
 - [HarooPad](http://pad.haroopress.com/)
+- [iTerm](https://www.iterm2.com/)
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [Spectacle](http://spectacleapp.com/)
 - [Sublime Text 3](https://www.sublimetext.com/)
