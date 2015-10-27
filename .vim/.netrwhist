@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/NatChan/Downloads/tmux'
+let g:netrw_dirhist_2='/Users/NatChan/.config'
+let g:netrw_dirhist_3='/usr/local/Cellar/hadoop/2.6.0/libexec/etc/hadoop'
+let g:netrw_dirhist_4='/Users/NatChan/Dropbox/CIS450/cis550-project/.git'
+let g:netrw_dirhist_5='/Users/NatChan/.vim/bundle/vim-notes/misc/notes/shadow'
+let g:netrw_dirhist_6='/Users/NatChan/.vim/bundle/vim-notes/misc/notes/user'
